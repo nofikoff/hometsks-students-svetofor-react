@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css","App.css"],"names":[],"mappings":"AAAA,KACE,QAAS,CACT,kBACF,CCHA,KACE,YAAa,CACb,cAAe,CACf,UAAW,CACX,gBAAiB,CACjB,aACF","file":"main.a51d906e.chunk.css","sourcesContent":["body {\n  margin: 0;\n  background: rgb(48, 69, 139);\n}\n\n",".App {\n  display: flex;\n  flex-wrap: wrap;\n  width: 100%;\n  max-width: 1000px;\n  margin: 0 auto;\n}\n"]}
